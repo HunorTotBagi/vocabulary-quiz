@@ -1,0 +1,16 @@
+ulaz - der Eintritt
+ulaznica - die Eintrittskarte
+popust - die Ermäßigung
+umetnik - der Künstler
+zvezda (tv) - der Star
+bina - die Bühne
+događaj - die Veranstaltung
+umetnost - die Kunst
+prezentacija - der Vortrag
+odbor za diskusiju - die Diskussionsrunde
+žurka - das Fest
+koncert - das Konzert
+izložba - die Ausstellung
+festival - das Festival
+predstava - das Theaterstück
+
