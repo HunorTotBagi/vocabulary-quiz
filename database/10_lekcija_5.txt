@@ -3,7 +3,7 @@ otvoren (o) - offen
 zatvoreno - geschlossen
 vodič - die Führung
 turistički vodič - der Reiseführer
-razgledanje - die Sehenswürdigkeit
+znamenitosti - die Sehenswürdigkeiten
 turista - der Tourist
 tura oko - der Rundgang
 brošura - der Prospekt
@@ -11,4 +11,4 @@ kamera - die Kamera
 smeštaj - die Unterkunft
 bakšiš - das Trinkgeld
 promeniti novac - Geld wechseln
-putovati brodom - die Schiffahrt
+putovati brodom - die Schifffahrt
