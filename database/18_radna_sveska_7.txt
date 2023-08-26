@@ -1,0 +1,31 @@
+dijeta - die Diät
+zdravlje - die Gesundheit
+težina - das Gewicht
+trening - das Training
+smršati - abnehmen
+trenirati - trainieren
+težiti - wiegen
+sveže - frisch
+redovno - regelmäßig
+retko - selten
+barem - mindestens
+golf - das Golf
+rezanci / testo - die Nudel
+pošta - die Post
+mesto - die Stelle
+sindikat / udruženje - der Verein
+preporučiti - empfehlen
+pozajmiti - leiheno
+otvoriti - öffnen
+učestvovati - teilnehmen
+oko / približno - circa
+rano - früh
+ujutro - morgens
+prepodne / jutro - vormittags
+u podne - mittags
+popodnevni - nachmittags
+u večernjim satima - abends
+noću - nachts
+drugo - andere
+između - zwischen
+
