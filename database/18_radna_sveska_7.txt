@@ -15,7 +15,7 @@ pošta - die Post
 mesto - die Stelle
 sindikat / udruženje - der Verein
 preporučiti - empfehlen
-pozajmiti - leiheno
+pozajmiti - leihen
 otvoriti - öffnen
 učestvovati - teilnehmen
 oko / približno - circa
