@@ -1,0 +1,35 @@
+zadatak - die Aufgabe
+razred - die Klasse
+vest - die Nachricht
+semestar - das Semester
+škola jezika - die Sprachenschule
+test - der Test
+dečko, momak, tip - der Typ
+tip učenja - der Lerntyp
+komunalni koledž - die Volkshochschule
+gledati - anschauen
+gledao je - hat angeschaut
+napisao je - hat aufgeschreuben
+ispravljati - korrigieren
+ispravljao je - hat korrigiert
+rešiti - lösen
+rešio je - hat gelösen
+zapamtiti - merken
+primetio je - hat sich gemerkt
+prevesti - übersetzen 
+je preveo - hat übersetzt
+ponoviti - wiederholen
+ponovio je - hat wiederhol
+planirati - planen
+planirao je - hat geplant
+zaljubiti se - verlieben sich
+zaljubio se - hat sich verliebt
+putovati - verreisen
+odputovao je - hat verreist
+moguće - möglich
+sve - aller 
+najvažniji - am allerwichtigsten
+kao - als
+
+
+
