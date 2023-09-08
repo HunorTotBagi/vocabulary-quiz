@@ -1,0 +1,15 @@
+pošta - die Post
+paketić - das Päckchen
+paket - das Paket
+pošiljalac - der Absender
+adresa - die Adresse
+primalac - der Empfänger
+potpisati - unterschreiben
+potpis - die Unterschrift
+koverta - der Briefumschlag
+šalter - der Schalter
+poštansko sanduče - der Briefkasten
+razglednica - die Postkarte
+pismo - der Brief
+pakovati - packen
+karton - der Karton
