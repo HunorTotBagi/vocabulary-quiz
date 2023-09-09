@@ -1,5 +1,4 @@
 upakovati - einpacken
-pakovati - packen
 transportovati - transportieren
 krema - die Creme
 uputstvo za upotrebu - die Gebrauchsanweisung
