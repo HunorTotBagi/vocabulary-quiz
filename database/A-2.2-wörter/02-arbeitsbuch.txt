@@ -1,5 +1,7 @@
 upakovati - einpacken
+zapakovao je - hat eingepackt
 transportovati - transportieren
+transportovao je - hat transportiert
 krema - die Creme
 uputstvo za upotrebu - die Gebrauchsanweisung
 lice - das Gesicht
@@ -10,10 +12,15 @@ korak - der Schritt
 tabla - die Tafel
 centimetar - der Zentimeter
 označiti krstom - ankreuzen
+označito je krstom - hat angekreuzt
 koristiti (b) - benutzen
+koristio je (b) - hat benutzt
 misliti o - denken an
+mislio je o - hat gedacht
 dodati - ergänzen
+dodao je - hat ergänzt
 koristiti (g) - gebrauchen
+koristio je (g) - hat gebraucht
 siromašan, jadan - arm
 različit - verschieden
 konačno - schließlich
