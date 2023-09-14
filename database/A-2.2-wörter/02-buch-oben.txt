@@ -5,7 +5,7 @@ pošiljalac - der Absender
 adresa - die Adresse
 primalac - der Empfänger
 potpisati - unterschreiben
-potpisa je - hat unterschrieben
+potpisao je - hat unterschrieben
 potpis - die Unterschrift
 koverta - der Briefumschlag
 šalter - der Schalter

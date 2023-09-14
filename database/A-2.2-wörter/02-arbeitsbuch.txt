@@ -12,7 +12,7 @@ korak - der Schritt
 tabla - die Tafel
 centimetar - der Zentimeter
 označiti krstom - ankreuzen
-označito je krstom - hat angekreuzt
+označio je krstom - hat angekreuzt
 koristiti (b) - benutzen
 koristio je (b) - hat benutzt
 misliti o - denken an
