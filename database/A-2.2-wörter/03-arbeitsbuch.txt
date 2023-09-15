@@ -5,7 +5,7 @@ kriminal - der Krimi
 program - das Programm
 prijemnik - der Rundfunk
 tv program - der Sender
-privatni tv program - der Privatender
+privatni tv program - der Privatsender
 emisija - die Sendung
 serija - die Serie
 igrani film - der Spielfilm
