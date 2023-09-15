@@ -1,0 +1,13 @@
+jednokrevetna soba - das Einzelzimmer
+dvokrevetna soba - das Doppelzimmer
+soba za nepušače - das Nichtraucherzimmer
+sauna - die Sauna
+bazen - das Schwimmbad
+sala za doručak - der Frühstücksraum
+bar - die Bar
+recepcija - die Rezeption
+sala za konferenciju - der Konferenzraum
+sala za fitness - der Fitnessraum
+restoran - das Restaurant
+parking - der Parkplatz
+kiosk - der Kiosk
