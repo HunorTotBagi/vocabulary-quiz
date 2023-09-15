@@ -11,15 +11,15 @@ sala za konferenciju - der Konferenzraum
 soba za nepušače - das Nichtraucherzimmer
 parking - der Parkplatz
 recepcija - die Rezeption
-pun pannsion - die Vollpension  
+pun pansion - die Vollpension  
 probuditi - wecken
 probudio se - hat geweckt
 besplatno - frei
-ljutnja - der der Ärger
+ljutnja - der Ärger
 pušač - der Raucher
 zabava - der Spaß
 prijatno - angenehm
-krzo - durch
+kroz - durch
 suprotno - gegenüber
 preko - vorbei
 svuda - überall

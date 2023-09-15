@@ -15,10 +15,10 @@ posle, nakon toga - hinterher
 kompleksno - aufwendig
 rusi se - abgerissen
 iskopati - ausgraben
-sa vremena na vreme, tu i tamo - ab und zu
+sa vremena na vreme, tu i tamo - ab und_zu
 iako - obwohl
 preostalo - übrig
-varovatno - wahrscheinlich
+verovatno - wahrscheinlich
 verovatnoća - die Wahrscheinlichkeit
 doći tamo - hinkomme
 pored - nebenbei
