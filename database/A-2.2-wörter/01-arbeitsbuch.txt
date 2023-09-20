@@ -5,31 +5,30 @@ semestar - das Semester
 škola jezika - die Sprachenschule
 test - der Test
 dečko, momak, tip - der Typ
-tip učenja - der Lerntyp
+tip učenja - der Lernertyp
 komunalni koledž - die Volkshochschule
 gledati - anschauen
 gledao je - hat angeschaut
-napisao je - hat aufgeschreuben
+zapisati - aufschreiben
+zapisao je - hat aufgeschrieben
 ispravljati - korrigieren
 ispravljao je - hat korrigiert
 rešiti - lösen
 rešio je - hat gelösen
 zapamtiti - merken
-primetio je - hat sich gemerkt
-prevesti - übersetzen 
+primetio je - hat sich-gemerkt
+prevesti - übersetzen
 je preveo - hat übersetzt
 ponoviti - wiederholen
-ponovio je - hat wiederhol
+ponovio je - hat wiederholt
+sadašnjost - die Gegenwart
+prošlost - die Vergangenheit
 planirati - planen
 planirao je - hat geplant
 zaljubiti se - verlieben sich
-zaljubio se - hat sich verliebt
 putovati - verreisen
 odputovao je - hat verreist
 moguće - möglich
 sve - aller 
 najvažniji - am allerwichtigsten
 kao - als
-
-
-

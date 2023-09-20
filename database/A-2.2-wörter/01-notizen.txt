@@ -1,8 +1,8 @@
 pokazati - zeigen
-bliski istok - der Nähe Osten
+bliski istok - der Nähe-Osten
 pruga, linije na kosulji - die Streife
 prugast - gestreift
-prugasta košulja - ein gestreiftes Hemd
+prugasta košulja - gestreiftes Hemd
 smejati se - lächeln
 osmeh - das Lächeln
 u pozadini - im Hintergrund
@@ -14,5 +14,5 @@ propustiti nekog - vorbeilassen
 šaljivdžija - der Spaßvogel
 plan (v) - vorhaben
 čas - die Stunde
-na času - in der Stunde
+na času - in der-Stunde
 na nastavi - im Unterricht

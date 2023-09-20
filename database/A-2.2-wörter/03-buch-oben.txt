@@ -1,0 +1,9 @@
+film o kriminalu - der Krimi
+gledalac - der Zuschauer  
+medijateka - die Mediathek  
+glumac (D) - der Darsteller  
+DVD - die DVD  
+režiser - der Regisseur
+daljinski upravljač - die Fernbedienung
+emisija - die Sendung
+prijemnik - der Rundfunk  

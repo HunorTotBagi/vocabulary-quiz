@@ -1,0 +1,25 @@
+boravak - der Aufenthalt
+dvokrevetna soba - das Doppelzimmer
+jednokrevetna soba - das Einzelzimmer
+sala za prijem - die Empfangshalle
+sala za fitness - der Fitnessraum
+sala za doručak - der Frühstücksraum
+polupansion - die Halbpension
+kiosk - der Kiosk
+konferencija - die Konferenz
+sala za konferenciju - der Konferenzraum
+soba za nepušače - das Nichtraucherzimmer
+parking - der Parkplatz
+recepcija - die Rezeption
+pun pansion - die Vollpension  
+probuditi - wecken
+probudio se - hat geweckt
+besplatno - frei
+ljutnja - der Ärger
+pušač - der Raucher
+zabava - der Spaß
+prijatno - angenehm
+kroz - durch
+suprotno - gegenüber
+preko - vorbei
+svuda - überall

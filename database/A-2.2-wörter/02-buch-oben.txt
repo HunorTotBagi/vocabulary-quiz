@@ -5,6 +5,7 @@ pošiljalac - der Absender
 adresa - die Adresse
 primalac - der Empfänger
 potpisati - unterschreiben
+potpisao je - hat unterschrieben
 potpis - die Unterschrift
 koverta - der Briefumschlag
 šalter - der Schalter
@@ -12,4 +13,5 @@ poštansko sanduče - der Briefkasten
 razglednica - die Postkarte
 pismo - der Brief
 pakovati - packen
+pakovao je - hat gepackt
 karton - der Karton
