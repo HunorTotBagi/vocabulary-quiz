@@ -7,3 +7,18 @@ podeliti - verteilen
 deliti - teilen
 delimično - teilweisen
 neprijatno - peinlich
+prednost - der Vorteil
+nedostatak, mana - der Nachteil
+spostobnost, vestina - die Fähigkeit
+nije provereno - nicht überprüft
+preko puta - gegenüber von
+pored - an... vorbei
+kroz - druch
+ulaz - der Eingang
+izlaz - der Ausgang
+zvono - die Glocke
+frizerski salon - der Frisörladen
+hodnik - der Flur
+sprat - der Stock
+lift - der Aufzug
+prilično - ziemlich
