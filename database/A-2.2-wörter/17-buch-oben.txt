@@ -3,4 +3,4 @@ auto radionica - Kfz-Werkstatt
 promeniti gume - Reifen wechseln
 brod - das Schiff
 auto - der Wage
-motor - das Motorrad
+motor (na dva tocka) - das Motorrad

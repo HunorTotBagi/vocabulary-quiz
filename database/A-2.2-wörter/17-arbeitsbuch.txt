@@ -7,7 +7,7 @@ granica - die Grenze
 ostrvo - die Insel
 vozilo - das Kraftfahrzeug
 obala - die Küste
-motor - der Motor
+motor (sto pokrece vozilo) - der Motor
 raspad - die Panne
 region - der Region
 guma - der Reifen
