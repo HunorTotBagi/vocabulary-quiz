@@ -1,0 +1,31 @@
+polazak - die Abfahrt
+dolazak - die Ankunft
+autoput - die Autobahn
+trajekt - die Fähre
+planine - das Gebirge
+granica - die Grenze
+ostrvo - die Insel
+vozilo - das Kraftfahrzeug
+obala - die Küste
+motor - der Motor
+raspad - die Panne
+region - der Region
+guma - der Reifen
+benzinska pumpa - die Tankstelle
+dopuniti gorivo - tanken
+preći preko - überqueren
+promeniti - wechseln
+farmer - der Bauer
+polje - das Feld
+kaseta - die Kassette
+losa sreca - das Pech
+strana - die Seite
+slučajnost - der Zufall
+neko - jemand
+niko - niemand
+dosadno / smetalo / nervirajuce - ärgerlich
+poznat - bekannt
+umoran - müde
+ukupno - insgesamt
+u sredini - mitten
+iznenada / odjednom - plötzlich
