@@ -1,0 +1,33 @@
+led - das Eis
+podrucje - das Gebiet
+glavni grad - die Hauptstadt
+toplota (h) - die Hitze
+sezone, godisnje doba - die Jahreszeit
+hladnoca - die Kälte
+kontinent - der Kontinent
+temperatura - die Temperatur
+suvoća - die Trockenheit
+kap - der Tropfen
+kap kiše - der Regentropfen
+toplota (w) - die Wärme
+ledeno - eisig
+vlažno - feucht
+vruće - heiß
+visoko - hoch
+nisko - niedrig
+suv - trocken
+tipično - typisch
+suprotno - das Gegenteil
+naprotiv - im Gegenteil
+glupost - der Quatsch
+razmisliti o - denken an
+radovati se - freuen auf
+interesovati se o - interessiert auf
+imati želju za - lust haben-auf
+pričati o - sprechen über
+pričati sa - sprechen mit
+sanjati o - träumen von
+videti se sa - treffen mit
+biti zadovoljan - zufrieden sein
+daleko - weit
+normalno - normalerweise
