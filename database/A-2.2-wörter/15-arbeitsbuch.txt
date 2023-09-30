@@ -1,11 +1,9 @@
 DVD - die DVD
 televizor - das Fernsehen
-<<<<<<< HEAD
 epizoda / posledica - die Folge
 kriminal - der Krimi
 program - das Programm
 prijemnik - der Rundfunk
-=======
 epizoda, posledica - die Folge
 kriminal - der Krimi
 program - das Programm
@@ -40,4 +38,3 @@ knap - knapp
 socialan - sozial
 osim - außer
 u međuvremenu - inzwischen
->>>>>>> 1253d967e15803cff09f0c82c78e517deeaca6cd
