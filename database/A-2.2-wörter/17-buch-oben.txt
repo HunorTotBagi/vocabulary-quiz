@@ -2,5 +2,5 @@ probušena guma - die Reifenpanne
 auto radionica - Kfz-Werkstatt
 promeniti gume - Reifen wechseln
 brod - das Schiff
-auto - der Wage
+auto - der Wagen
 motor (na dva tocka) - das Motorrad

@@ -1,5 +1,5 @@
 to znači - das bedeutet
-značenje - die Bedeuting
+značenje - die Bedeutung
 iznajmiti - ausleihen
 iznajmio - ausgeleihen
 zavisnost - die Sucht
@@ -10,8 +10,8 @@ nedostatak, mana - der Nachteil
 spostobnost, vestina - die Fähigkeit
 nije provereno - nicht überprüft
 preko puta - gegenüber von
-pored - an... vorbei
-kroz - druch
+pored - an vorbei
+kroz - durch
 ulaz - der Eingang
 izlaz - der Ausgang
 zvono - die Glocke
