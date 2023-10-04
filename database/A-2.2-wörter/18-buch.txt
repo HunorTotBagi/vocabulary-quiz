@@ -1,4 +1,4 @@
-ledeno - eisich
+ledeno - eisig
 oblak - die Wolke  
 smer kretanja na nebu - die Himmelsrichtung  
 u većini vremena - meist
@@ -7,7 +7,7 @@ padavine - die Niederschlägen
 srednji - mittleren
 protiv toga - dagegen
 pahuljica - die Schneeflocke
-u toki, stalan - andauernde
+u toku, stalan - andauernde
 prosek - der Durchschnitt  
 dozivljaj - das Erlebnis  
 uzitak - der Genuss  

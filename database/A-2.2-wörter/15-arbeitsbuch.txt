@@ -1,6 +1,5 @@
 DVD - die DVD
 televizor - das Fernsehen
-epizoda / posledica - die Folge
 kriminal - der Krimi
 program - das Programm
 prijemnik - der Rundfunk
