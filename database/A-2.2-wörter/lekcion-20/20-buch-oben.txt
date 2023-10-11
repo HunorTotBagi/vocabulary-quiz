@@ -1,0 +1,11 @@
+strip - der Comic
+roman - der Roman
+novine - die Zeitung
+časopis, magazin - die Zeitschrift
+pesma u knjizevnom stilu - das Gedicht
+bajka - das Märchen
+strucna knjiga - das Sachbuch
+savetnik - der Ratgeber
+audio knjiga - das Hörbuch
+knjiga za decu - das Kinderbuch
+slikovnica - das Bilderbuch
