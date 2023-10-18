@@ -1,0 +1,8 @@
+debitna kartica - die EC-Karte
+lična karta - der Ausweis
+keš - das Bargeld
+vozačka dozvola - der Führerschein
+zdravstvena knjižica - die Gesundheitskarte
+klijentska kartica - die Kundenkarte
+telefonska kartica - die Telefonkarte
+kreditna kartica - die Kreditkarte
