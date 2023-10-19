@@ -1,4 +1,4 @@
-polocija - die Polizei
+policija - die Polizei
 vatrogasna služba - die Feuerwehr
 lekar hitne pomoći - der Notarzt
 podaci - die Angabe  
