@@ -1,4 +1,4 @@
-# Language Translation Test
+# Vocabulary-quiz
 This Python script is designed to help you practice and test your skills in translating words and phrases from one language to another. In this example, we're testing your German translation skills, but you can adapt it to any language pair by providing a different text file with translations.
 
 ## How It Works
