@@ -23,3 +23,6 @@ razraditi - erarbeiten
 primeniti - anwenden
 fraza / izreka - die Redewendung
 koristiti - einzusetzen
+istraga - untersuchung
+prvobitno - ursprünglich
+udoban - gemütlich
