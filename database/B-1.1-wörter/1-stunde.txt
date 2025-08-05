@@ -3,12 +3,12 @@ sačuvati - speichern
 login - sich einloggen
 pristup - der Zugriff
 logout - sich abmelden
-die Nachrichten - vesti
-undenkbar - nezamislivo
-süchtig - zavisan
-der Sklave - rob
-die Wüste - pustinja
-selbstständig - samostalno
-wertlos - bezvredno
-nützlich - korisno
-vertraulich - povjerljiv
+vesti - die Nachrichten
+nezamislivo - undenkbar
+zavisan - süchtig
+rob - der Sklave
+pustinja - die Wüste
+samostalno - selbstständig 
+bezvredno - wertlos
+korisno - nützlich
+povjerljiv - vertraulich
